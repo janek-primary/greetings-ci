@@ -3,7 +3,6 @@
 
 ### Bug Fixes
 
-* update branch name ([bcb6cc0](https://github.com/janek-primary/greetings-ci/commit/bcb6cc002504a0c9d70ca0039c6c8e7a3e97e16f))
 
 
 ### Features
