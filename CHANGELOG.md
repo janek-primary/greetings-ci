@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/janek-primary/greetings-ci/compare/v0.4.0...v0.5.0) (2022-08-25)
+
+
+### Features
+
+* add testing to pipeline ([c7dc34c](https://github.com/janek-primary/greetings-ci/commit/c7dc34c6ed943606a821f233eb86782b43114da5))
+
+
+
 # [0.4.0](https://github.com/janek-primary/greetings-ci/compare/v0.1.1...v0.4.0) (2022-08-25)
 
 
