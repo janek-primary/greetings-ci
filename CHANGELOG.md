@@ -1,18 +1,10 @@
-# [0.3.0](https://github.com/janek-primary/greetings-ci/compare/v0.2.0...v0.3.0) (2022-08-25)
+# [0.4.0](https://github.com/janek-primary/greetings-ci/compare/v0.1.1...v0.4.0) (2022-08-25)
 
 
 ### Features
 
-* version artifact ([5a6cf9b](https://github.com/janek-primary/greetings-ci/commit/5a6cf9bcbc53f9f75c2080285243c796b28364db))
-
-
-
-# [0.2.0](https://github.com/janek-primary/greetings-ci/compare/v0.1.1...v0.2.0) (2022-08-25)
-
-
-### Features
-
-* upload artifact ([db5372f](https://github.com/janek-primary/greetings-ci/commit/db5372f4828fc3c571003a7bb8581ba4b81e1267))
+* merge in artifact versioning ([3e482d9](https://github.com/janek-primary/greetings-ci/commit/3e482d97edadd36c7109b6abf082783a2fba746f))
+* merge in artifact versioning ([#4](https://github.com/janek-primary/greetings-ci/issues/4)) ([ec26b24](https://github.com/janek-primary/greetings-ci/commit/ec26b248e5eca189843d0c830aebed4a18d88a7d))
 
 
 
