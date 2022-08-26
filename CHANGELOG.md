@@ -1,3 +1,12 @@
+## [0.5.1](https://github.com/janek-primary/greetings-ci/compare/v0.5.0...v0.5.1) (2022-08-26)
+
+
+### Bug Fixes
+
+* input version for workflows added ([11a9a95](https://github.com/janek-primary/greetings-ci/commit/11a9a950b08591241ef349e3bfa7a71ea2118d39))
+
+
+
 # [0.5.0](https://github.com/janek-primary/greetings-ci/compare/v0.4.0...v0.5.0) (2022-08-25)
 
 
