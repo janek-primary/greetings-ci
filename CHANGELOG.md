@@ -1,3 +1,12 @@
+# [0.8.0](https://github.com/janek-primary/greetings-ci/compare/v0.7.0...v0.8.0) (2022-08-30)
+
+
+### Features
+
+* add deployment ([ce1913d](https://github.com/janek-primary/greetings-ci/commit/ce1913df1e7a761d4784075b27775a23812b9b3e))
+
+
+
 # [0.7.0](https://github.com/janek-primary/greetings-ci/compare/v0.6.1...v0.7.0) (2022-08-30)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * input version for workflows added ([11a9a95](https://github.com/janek-primary/greetings-ci/commit/11a9a950b08591241ef349e3bfa7a71ea2118d39))
-
-
-
-# [0.5.0](https://github.com/janek-primary/greetings-ci/compare/v0.4.0...v0.5.0) (2022-08-25)
-
-
-### Features
-
-* add testing to pipeline ([c7dc34c](https://github.com/janek-primary/greetings-ci/commit/c7dc34c6ed943606a821f233eb86782b43114da5))
 
 
 
