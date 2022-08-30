@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/janek-primary/greetings-ci/compare/v0.6.1...v0.7.0) (2022-08-30)
+
+
+### Features
+
+* move test script to composite action ([#8](https://github.com/janek-primary/greetings-ci/issues/8)) ([2360bc3](https://github.com/janek-primary/greetings-ci/commit/2360bc3a51a8c88418367833a207c48a4bd4d2ea))
+
+
+
 ## [0.6.1](https://github.com/janek-primary/greetings-ci/compare/v0.6.0...v0.6.1) (2022-08-30)
 
 
@@ -31,16 +40,6 @@
 ### Features
 
 * add testing to pipeline ([c7dc34c](https://github.com/janek-primary/greetings-ci/commit/c7dc34c6ed943606a821f233eb86782b43114da5))
-
-
-
-# [0.4.0](https://github.com/janek-primary/greetings-ci/compare/v0.1.1...v0.4.0) (2022-08-25)
-
-
-### Features
-
-* merge in artifact versioning ([3e482d9](https://github.com/janek-primary/greetings-ci/commit/3e482d97edadd36c7109b6abf082783a2fba746f))
-* merge in artifact versioning ([#4](https://github.com/janek-primary/greetings-ci/issues/4)) ([ec26b24](https://github.com/janek-primary/greetings-ci/commit/ec26b248e5eca189843d0c830aebed4a18d88a7d))
 
 
 
