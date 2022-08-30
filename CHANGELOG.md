@@ -1,3 +1,12 @@
+## [0.8.1](https://github.com/janek-primary/greetings-ci/compare/v0.8.0...v0.8.1) (2022-08-30)
+
+
+### Bug Fixes
+
+* update to greeting for blue ([2232fc7](https://github.com/janek-primary/greetings-ci/commit/2232fc7567c1c9abd4a25401b0525e8063204831))
+
+
+
 # [0.8.0](https://github.com/janek-primary/greetings-ci/compare/v0.7.0...v0.8.0) (2022-08-30)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add create issue on failure ([4a67172](https://github.com/janek-primary/greetings-ci/commit/4a6717229d94e27bcea5490792322669c9d017ee))
-
-
-
-## [0.5.1](https://github.com/janek-primary/greetings-ci/compare/v0.5.0...v0.5.1) (2022-08-26)
-
-
-### Bug Fixes
-
-* input version for workflows added ([11a9a95](https://github.com/janek-primary/greetings-ci/commit/11a9a950b08591241ef349e3bfa7a71ea2118d39))
 
 
 
